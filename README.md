@@ -78,12 +78,3 @@ jupyter lab main.ipynb
 ## Licença
 
 Este projeto está sob a licença especificada no arquivo LICENSE (se aplicável).
-
-## Autor
-
-Desenvolvido como parte do Tech Challenge da FIAP - Especialização em Inteligência Artificial e Machine Learning.
-
-## Contribuições
-
-Este é um projeto acadêmico desenvolvido para o Tech Challenge. Sugestões e melhorias são bem-vindas através de issues ou pull requests.
-
